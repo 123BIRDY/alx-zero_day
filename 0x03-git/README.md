@@ -1,0 +1,1 @@
+Weighted git commit
